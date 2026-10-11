@@ -1,0 +1,164 @@
+Professor: Bassem Alhalabi
+Department: Computer Science, FAU
+Overall Quality: 4.5/5 based on 56 ratings
+Would Take Again: 84%
+Level of Difficulty: 2.6
+
+Quality: 5.0 | Difficulty: 1.0 | Course: CDA4630 | Dec 2024
+Alhalabi is the GOAT. This is also the most practical course in the CE curriculum. First half of the semester, you learn about sensors and actuators and wire up a circuit. Then you get into teams and come up with a project that uses a microcontroller (we were given an ESP32) and present it at the end. Just manage your time well.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CDA4102 | Aug 2024
+One of the best professors I've ever had. He makes everything very easy to understand and he's really funny. He ensures everyone is on the same page especially at the start of the semester. Highly recommend.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA4630 | May 2024
+Was engaging and had a sense of humor. Whenever we had a problem he did his absolute best to help us figure it out and point us in the right direction. I have taken 4 of his classes. If you want to be challenged and learn, he is definitely the guy to take.
+
+Quality: 2.0 | Difficulty: 3.0 | Course: CDA4102 | May 2024
+Bad teaching. He thought we knew all our logic design and just talked about advanced topics not even tested on quizzes or the final. 8 quizzes that are exactly what he teaches in class. Final is EXACTLY the 8 quizzes. He skipped class many times. Lectures are handwritten so hard to read.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA3331C | Dec 2022
+One of my best classes yet at FAU. What he taught us helped in later courses. Labs were fun and educational. Great class taught by a great professor. We need more hands on experience in the classrooms like this class.
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CDA3331C | Sep 2022
+Alhalabi genuinely cares that his students understand the material. He expects that students will study outside of the classroom, keep up with weekly textbook readings, and attend lectures. Students would be wise to attend class lectures.
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CDA4630 | Aug 2021
+Make sure to begin your final exam project very early. The class is a self-paced effort. The online material is still not well organized so make use of the professor's availability. Try your hardest to find resources as far as code for the msp430 early on or it will bite you.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA3331 | Aug 2021
+Dr. Baseem Alhalabi is the best professor I ever had! He is very brilliant and very knowledgeable about this subject. He very much cares about his students. He wants every student to succeed in his class. He has a lot of passion for teaching. He is a gem!
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CDAC3331 | Dec 2020
+This professor's goal is clear: he wants students to understand the class, love the material and encourage them to uplift themselves. The lectures were super clear, never got bored and his labs are challenging but fun. He is a gem for the engineering department.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA4630 | Nov 2020
+Awesome class. Only consists of a midterm and final group project. It is a HANDS ON course, so don't expect it to be lecture heavy. He provides insight on your project and directs you the best way possible but you have to do the work. He is a lot of fun!
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA3331 | May 2019
+This class builds on logic and if you understood that, you will be fine. If you pay attention in the lectures, read ahead, and do your labs, you'll get an A for sure. Alhalabi is awesome. Totally recommend him.
+
+Quality: 3.0 | Difficulty: 1.0 | Course: CDA4630 | Dec 2018
+Almost no effort required. I doubt anyone fails this class. He gives help when requested and I believe he is knowledgeable. I would have preferred a more structured class with lessons. Easy pass.
+
+Quality: 3.0 | Difficulty: 2.0 | Course: CDA4630 | Nov 2018
+Most take because his classes are a slam dunk. You learn if you want to, not because the course forces you. Man does have knowledge.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA4630 | Aug 2018
+One of the best professors at FAU!
+
+Quality: 3.0 | Difficulty: 3.0 | Course: CDA3331 | Aug 2018
+Most of the work is done for you. Easy to pass this class with little effort. Clear lectures - most of what you need as solutions for labs, quizzes and tests are given in the lectures.
+
+Quality: 5.0 | Difficulty: 4.0 | Course: MSP430 | Apr 2018
+One of the greatest Professors in this Country. He loves and masters everything related to Computer and Electronics. He has the Knowledge and knows how to teach.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA4630 | May 2017
+He is a nice professor. He has his own company that provides embedded solutions for other companies, so he is up to date and very familiar with the subject.
+
+Quality: 4.0 | Difficulty: 2.0 | Course: CDA3331 | Apr 2017
+4 take home quizzes, 3 in class quizzes, drops 2. No midterm, only final. Final is based on quizzes and labs. Easy class if you do the labs.
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CDA3331C | Dec 2016
+He is one of the best teachers! Very easy to talk to and willing to help you understand. Lectures are helpful and aid in doing the labs/quizzes. Drops 3 out of 8 quizzes. Labs were semi challenging and can be applied to real world applications.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA3331 | Dec 2016
+Excellent teacher. Breaks down difficult concepts so they're easily understood. Work given is not overwhelming and incorporates enough concepts so you learn the material well.
+
+Quality: 3.0 | Difficulty: 4.0 | Course: CDA4630 | Oct 2016
+He's an ok professor but I wouldn't take him again. He was late to class many times. He likes to put people on the spot so if you sit in the front he will call on you. He wont accept your homework if it has bent corners or a crease in it.
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CDA4630 | Aug 2016
+Real good prof.
+
+Quality: 4.0 | Difficulty: 2.0 | Course: CDA3201C | Aug 2016
+Do the sample quizzes and you will pass the regular quizzes. Do the labs as the labs and quizzes are the key to passing the class.
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CDA3201C | Aug 2016
+Makes classes fun and challenging.
+
+Quality: 4.5 | Difficulty: 2.0 | Course: CDA3201C | Aug 2015
+Great teacher. He loves the material and teaches it well. Some adjustment needed in the lab because some people have never touched a wire while being expected to build a system from scratch.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA3201C | Aug 2015
+He is an amazing professor! I found he was teaching a class that I need for next semester - you bet I'm going to take him again!
+
+Quality: 5.0 | Difficulty: 4.0 | Course: MICROPROCESSOR | Sep 2014
+One of the best professors at FAU. Explains stuff well, has empathy for his students, and is passionate about the subject, which will rub off on you.
+
+Quality: 5.0 | Difficulty: 1.0 | Course: CDA3201C | Sep 2014 | Online
+Too good professor. He makes his lectures clear and understandable. He makes his lectures so interesting that students participate. Full attendance during his course period. Easy A. Recommended.
+
+Quality: 5.0 | Difficulty: 1.0 | Course: CDA3201C | Aug 2014
+If you want to get an A then you need to go to class. It's that simple. Go to class, pay attention, and you pass.
+
+Quality: 4.0 | Difficulty: 1.0 | Course: CDA3201 | Aug 2014
+He definitely knows his stuff and is very good at teaching it. Go to his classes, pay attention, take notes. All quizzes and tests are open book/notes. He dropped 3 out of 8 quizzes. Labs are a bit tough, TAs are helpful. Final is like doing every quiz in order.
+
+Quality: 5.0 | Difficulty: 1.0 | Course: CDA3201C | Aug 2014
+I recommend you go to each class because he really covers examples of everything that you will be tested on.
+
+Quality: 3.5 | Difficulty: 3.0 | Course: CDA3201 | Dec 2013
+I have taken logic design and it was easy. For microprocessors, not so much. He wasn't as prepared, and sometimes wouldn't answer my emails. He does care about his students. You have to work hard and push him constantly to help you.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA4630 | Nov 2013
+Best professor FAU has to offer. He is extremely knowledgeable and will go out of his way to make sure students learn the material. I would take every possible class you can with him!
+
+Quality: 5.0 | Difficulty: 1.0 | Course: CDA3201 | Aug 2012
+Logic design can be complicated but Dr. Alhalabi makes it very easy to understand. This class is an easy A with this professor and he really knows his stuff.
+
+Quality: 4.0 | Difficulty: 1.0 | Course: CDA3201 | Aug 2012
+Dr. Alhalabi is very good at teaching. He is lenient and makes his class pretty easy to get an A in. The thing that disappointed me is that he was late so much, sometimes up to 30-40 min.
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CDA6316 | May 2012
+Had Dr. Alhalabi for Embedded System Design. Even computer science majors get some use from a class like this. You revisit logic design and microprocessors by wiring up new circuits. Your main grade is a semester project in which you invent a device and write a journal paper.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CDA3331 | Nov 2011
+One of the best professors I've ever encountered in my academic career. Dr. Alhalabi is one of those professors who enjoys teaching, knows his material well, and is able to convey his knowledge clearly. He's usually 10 minutes late to class, but that is easily forgiven with his excellent instruction.
+
+Quality: 5.0 | Difficulty: 1.0 | Course: CDA3201 | Aug 2011
+If you want knowledge then take his class. He says read the textbook first then come to class. I never opened the textbook but the way he teaches, his teaching becomes the textbook. I got an A easily. Practice his sample quizzes and you will pass.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA3331 | May 2010
+DR. ALHALABI is the BEST professor the CSE has to offer. He will go out of his way to make sure you learn the matter at hand. Just make sure you get 8 hours of sleep prior to class, have breakfast. He absolutely hates the smell of cigarettes. Enjoy and Learn!
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CDA3201 | Dec 2009
+Great professor. His specialty is to make world class engineers. He is strict but it is for a reason. Probably one of the best computer engineering professors FAU has ever had.
+
+Quality: 5.0 | Difficulty: 1.0 | Course: CDA3331 | Nov 2009
+Great professor. Knows his stuff. Makes sure you learn.
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CDA3331 | Aug 2009
+THE BEST PROF I EVER HAD!!!!
+
+Quality: 5.0 | Difficulty: 1.0 | Course: CDA3201 | Apr 2009
+He is one of the best professors in the CE department. He definitely knows his stuff and he will help you a lot. He gave our class 8 quizzes and the 3 lowest grades were dropped.
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CDA3331 | Nov 2008
+One of the very best at the department. Incredibly knowledgeable about teaching methods and what he teaches. One of the few teachers from whom you get the feeling that they actually CARE. Do the labs and homework and you'll be fine. Open everything for quizzes and tests, including open brain as he says.
+
+Quality: 4.5 | Difficulty: 3.0 | Course: CDA3201 | Nov 2008
+Probably one of the best teachers I've encountered: knowledgeable and passionate about the subject and his students. Attendance is not mandatory, but if you come to class you'll ace the tests.
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CDA3331 | Nov 2008
+Very good professor. Knows everything there is to know about this subject. Attend class and read ahead. Quizzes are open book and resemble what is practiced in class. Recommend 100%.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA3331 | Aug 2008
+Excellent Professor. Recommend to all. Take this Professor. He is one of the BEST!!!
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CDA3201 | Nov 2007
+He knows his stuff, is very smart. Loves to talk about chocolate. Make sure you drink orange juice before class. Open book quizzes and final. Helps you when you need it. Very funny. I recommend him.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CDA3201 | Nov 2007
+So far so good.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDAC3331 | Aug 2006
+He is a very good professor. Took him for microprocessor. Knows his stuff and makes class very interesting. Exams are not that hard at all. If you go to his class and do what he says you will do good.
+
+Quality: 4.5 | Difficulty: 2.0 | Course: MICROPROCESSOR | Aug 2006
+If you really want to learn a subject, then Baseem is your guy. He really knows what he is talking about and makes every effort possible to make his students understand and enjoy what he is teaching.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: MICROPROCESSORS | Nov 2005
+One of the best teachers I have ever had.
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CDA3331 | Aug 2005
+One of the few effective teachers. You'll definitely learn. No-nonsense teacher but very helpful and wants the student to understand.

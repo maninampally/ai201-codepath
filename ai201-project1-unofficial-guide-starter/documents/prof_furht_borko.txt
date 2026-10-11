@@ -1,0 +1,41 @@
+Professor: Borko Furht
+Department: Computer Science, FAU
+Overall Quality: 3.5/5 based on 12 ratings
+Would Take Again: 67%
+Level of Difficulty: 3.6
+
+Quality: 2.0 | Difficulty: 4.0 | Course: COP4610 | Dec 2024
+Prof has a very old style of teaching and prints out slides. Very confusing to follow and slow. Mainly relied on YouTube videos to pass. Tests are challenging and include stuff from his lectures so listen to the recordings. He may ask you to answer questions if you come in person. Projects are laborious.
+
+Quality: 3.0 | Difficulty: 4.0 | Course: COP4610 | Dec 2020
+One thing I can give him is that he cares. His assignments are challenging but not impossible. Start the two big assignments early and you will be good. Exams are pretty easy if you follow the lectures.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: COP4610 | Jan 2020 | Online
+Good professor and really knows what he's talking about. Make sure you watch the lectures and do the homework to really understand the content. Tests are exactly what's in the lectures. If you put in the time to study, you will do well. He's really nice and cares about the topic he's teaching.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: COP4610 | Mar 2019
+Very knowledgeable and inspirational teacher. Learned a lot from his class.
+
+Quality: 2.0 | Difficulty: 4.0 | Course: COP4610 | Dec 2018
+2 Projects, 2 Tests, 2 Pop Quizzes (Extra Credit). You need at least a 69% in the class to pass with a C. Start the CPU Scheduler assignment early and take good notes. He lets you use a cheat sheet for each exam so you should be able to pass.
+
+Quality: 4.0 | Difficulty: 4.0 | Course: COP4610 | Dec 2018
+2 tests, 2 pop quizzes, and 2 big projects. He is very knowledgeable about operating systems, but his teaching skills could use work. He should use more modern technology and better materials. Outdated slides. I learned everything in theory but still had no idea about real world applications.
+
+Quality: 3.0 | Difficulty: 4.0 | Course: COP4610 | Mar 2018
+An excellent teacher, as long as you don't ask any questions. He has fairly easy to understand lectures, but if you ask questions it takes him off track. No feedback on projects. 2 moderately hard tests, 2 VERY extensive projects, curved grade.
+
+Quality: 5.0 | Difficulty: 4.0 | Course: COP4610 | Nov 2016
+This is an inspirational class. Very knowledgeable and experienced instructor. Has practical experience in designing operating systems, which was very useful in the class.
+
+Quality: 2.0 | Difficulty: 4.0 | Course: COP4610 | Aug 2016
+Perfect example of a very smart and experienced professor that has no idea how to teach. The tests were fairly hard, but there is a curve. The only thing to watch out for is the CPU scheduler which you need to start as soon as he assigns it.
+
+Quality: 1.5 | Difficulty: 4.0 | Course: COP4610 | Dec 2015
+This guy clearly has very little interest in teaching. Gives no feedback on lengthy assignments, brushes off most questions, doesn't respond to emails. You will not learn much in this class.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: COP4610 | Dec 2015
+Excellent and experienced professor. Very good class on operating systems.
+
+Quality: 4.0 | Difficulty: 3.0 | Course: COP4610 | Nov 2015
+Furht has a slight accent but you can understand him very well. His lectures are very informative. There are a lot of notes to take in each class. The class consisted of 1 programming assignment on CPU schedulers, 1 research group project on OS, and 2 exams. No final. Textbook free online. Nice guy. I learned a lot.
