@@ -1,5 +1,5 @@
-sentence-transformers==3.4.1
-chromadb>=0.6.0
+sentence-transformers==5.6.0
+chromadb==0.4.16
 groq==0.15.0
 python-dotenv==1.0.1
 
